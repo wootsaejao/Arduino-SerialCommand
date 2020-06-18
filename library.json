@@ -8,5 +8,5 @@
     "url": "https://github.com/kroimon/Arduino-SerialCommand.git"
   },
   "frameworks": "arduino",
-  "platforms": "atmelavr"
+  "platforms": "*"
 }
